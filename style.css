@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    margin-top: 50px;
+}
+.input-group {
+    margin-bottom: 20px;
+}
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+ul li {
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    background-color: #ffffff;
+}
